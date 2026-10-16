@@ -1,0 +1,6 @@
+# Objetos e executavel
+*.o
+sync_car
+
+# Especificacao da atividade
+*.pdf
